@@ -1,2 +1,1 @@
-# ros-bootcamp
-ROS Bootcamp
+# ROS Bootcamp
